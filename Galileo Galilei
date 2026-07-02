@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Galileo Galilei</title>
+    <link rel="stylesheet" href="Tous Astronomes.css">
+</head>
+<body>
+
+<header>
+    <h1>🔭 Galileo Galilei</h1>
+</header>
+
+<p align="center"><img src="=Galilée.jpg"
+
+<main>
+    <h2>Biographie</h2>
+    <p>Galileo Galilei (dit Gallilée) (1564-1642) était un astronome, physicien et mathématicien italien. Il est considéré comme le père de l’astronomie moderne et de la méthode scientifique.</p>
+
+    <h2>Découvertes et contributions</h2>
+    <p>Il a perfectionné la lunette astronomique et observé les lunes de Jupiter, les phases de Vénus, les montagnes de la Lune et les taches solaires. Ses observations ont confirmé le modèle héliocentrique de Copernic.</p>
+
+    <h2>Impact</h2>
+    <p>Galilée a transformé l’astronomie et la physique. Ses découvertes ont ouvert la voie aux lois de Kepler et à la science moderne, malgré les conflits avec l’Église.</p>
+
+    <a href="index.html" class="btn-small">⬅️ Retour à l’accueil</a>
+    <a href="astronomes.html" class="btn-small">⬅️ Retour aux astronomes & astronautes</a>
+</main>
+
+</body>
+</html>
